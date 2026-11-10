@@ -26,3 +26,20 @@ dev_workstation-mission/
 ├─ Dockerfile
 ├─ index.html
 └─ README.md
+```
+---
+
+## 4. 확인 명령어
+
+```bat
+docker version
+docker images
+docker ps -a
+```
+
+---
+## 5. 증빙 자료
+- `docker version` 실행 결과: `evidence/docker-version.png`
+- `docker images` 실행 결과: `evidence/docker-images.png`
+- `docker ps -a` 실행 결과: `evidence/docker-ps-a.png`
+- 웹페이지 접속 결과: `evidence/localhost-8080.png`
